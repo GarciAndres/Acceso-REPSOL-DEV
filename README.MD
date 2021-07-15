@@ -1,4 +1,4 @@
-Don't share this repo with anyone other than the devel guys.
+CONFIDENTIAL, DON'T SHARE IT.
 Steps to connect to our devel machine:
 
 1. Execute enable-script-execution.ps1 script as Administrator.
